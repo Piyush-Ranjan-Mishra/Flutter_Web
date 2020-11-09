@@ -1,3 +1,3 @@
 # Flutter_Web
 
-View Live flutter web [Kintry](https://kintry.com/store/kintry) 
+View Live flutter web subdomain for business register in [Kintry](https://kintry.com/store/kashivishwnathjyotishparamarsh) 
